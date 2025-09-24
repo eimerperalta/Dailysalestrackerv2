@@ -34,5 +34,9 @@ app.MapControllerRoute(
 app.Run();
 
 // Testing GHAS functionality (step 4.5) attempt 3
-AWS_ACCESS_KEY_ID='AKIAIOSFODNN7EXAMPLE'
-AWS_SECRET_ACCESS_KEY='wJalrXUtnFEMIK7MDENGbPxRfiCYEXAMPLEKEY'
+AWS_ACCESS_KEY_ID = 'AKIAIOSFODNN7EXAMPLE';
+AWS_SECRET_ACCESS_KEY = 'wJalrXUtnFEMIK7MDENGbPxRfiCYEXAMPLEKEY';
+
+char testPassword = 'SuperSecretTest123';
+var Password = "testPassword";
+Secret = "Ihatepasswords";
