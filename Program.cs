@@ -32,6 +32,7 @@ app.MapControllerRoute(
     pattern: "{controller=Sales}/{action=Index}/{id?}");
 
 app.Run();
-// Testing GHAS functionality (step 4.5)
+
+// Testing GHAS functionality (step 4.5) attempt 3
 AWS_ACCESS_KEY_ID='AKIAIOSFODNN7EXAMPLE'
-AWS_SECRET_ACCESS_KEY='wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY'
+AWS_SECRET_ACCESS_KEY='wJalrXUtnFEMIK7MDENGbPxRfiCYEXAMPLEKEY'
